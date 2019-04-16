@@ -951,7 +951,7 @@ file:
 
 ## License
 
-See [license](LICENSE)
+See [license](LICENSE.txt)
 
 ## Author
 
